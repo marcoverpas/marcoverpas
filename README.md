@@ -1,4 +1,4 @@
-### From Marx till R
+### From Marx till `R`
 
 :construction_worker: I am a professor of economics at [Department_of_Industrial_and_Information_Engineering_and_Economics](https://www.univaq.it/rubrica.php?id=1091&docente=on) of the University of L’Aquila, where I teach and conduct research on macroeconomics, economic modeling, monetary economics, ecological economics, and theory of value and distribution. In addition, I lead and coordinate the EU-funded project *A JUst Transition to the Circular Economy* ([JUST2CE](https://www.youtube.com/watch?v=GffG1JgjRxU)) at the [University of Leeds](https://business.leeds.ac.uk/divisions-economics/staff/145/marco-veronese-passarella). I am a senior visiting research fellow at [Angelo_King_Institute](https://www.dlsu-aki.com/) of the De La Salle University of Manila. Lastly, I am a member of the *Collegio dei Docenti* of the [PhD_Programme_in_Social_Sciences](https://www.unipd.it/dottoratoscheda/social-sciences) at the University of Padua. 
 
