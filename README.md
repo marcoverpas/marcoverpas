@@ -4,6 +4,6 @@
 
 :closed_book: While I was trained in neoclassical economics, I have since questioned the dominant (individual scarcity-based) approach and instead advocate for a macro-monetary reproduction paradigm. My economics pantheon includes a diverse range of scholars, such as David Ricardo, Karl Marx, Rosa Luxemburg, Joan Robinson, Nicholas Kaldor, Michal Kalecki, Piero Sraffa, Hyman Minsky, Richard Goodwin, Paolo Sylos-Labini, Wynne Godley, and Augusto Graziani.
 
-:chart_with_upwards_trend: In terms of programming languages and environments, I mainly use `R` and `EViews`. However, I have a basic kwnoledge of `Python` and `Matlab` as well.
+:chart_with_upwards_trend: In terms of programming languages and environments, I mainly use `R` and `EViews`. However, I have a good kwnoledge of `Python` and `Matlab` as well.
 
 :family: On a personal note, I am married to Marica Grego, who holds a research fellow position at the [University_of_Pavia](https://unipv.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unipv.it%2Fresource%2Fperson%2F1195970), and we have a daughter named Alice.
