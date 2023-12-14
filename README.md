@@ -10,10 +10,10 @@
 
 List of contents:
 
-- (Six lectures on SFC models)[https://github.com/marcoverpas/Six_lectures_on_sfc_mode] (`R`)
-- (SFC models)[https://github.com/marcoverpas/SFC-models-R] (`R`)
-- (SFC models)[https://github.com/marcoverpas/SFC-models-Matlab] (`MATLAB`)
-- (SFC models)[https://github.com/marcoverpas/SFC-models-Jupyter] (`Python-Jupiter`) 
-- (Codes from my publications)[https://github.com/marcoverpas/Other_codes_from_my_publications] (`R`,`EViews`)
-- (Teaching material)[https://github.com/marcoverpas/Teaching] (`R`)
-- (Miscellaneous)[https://github.com/marcoverpas/Other_codes] (`R`,`MATLAB`,`EViews`)
+- [Six lectures on SFC models](https://github.com/marcoverpas/Six_lectures_on_sfc_mode) (`R`)
+- [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`)
+- [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`)
+- [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) 
+- [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`)
+- [Teaching material](https://github.com/marcoverpas/Teaching) (`R`)
+- [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`)
