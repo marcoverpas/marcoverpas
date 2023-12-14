@@ -10,7 +10,7 @@
 
 List of contents:
 
-- (Six_lectures_on_SFC_models)[https://github.com/marcoverpas/Six_lectures_on_sfc_mode] (`R`)
+- (Six lectures on SFC models)[https://github.com/marcoverpas/Six_lectures_on_sfc_mode] (`R`)
 - (SFC models)[https://github.com/marcoverpas/SFC-models-R] (`R`)
 - (SFC models)[https://github.com/marcoverpas/SFC-models-Matlab] (`MATLAB`)
 - (SFC models)[https://github.com/marcoverpas/SFC-models-Jupyter] (`Python-Jupiter`) 
