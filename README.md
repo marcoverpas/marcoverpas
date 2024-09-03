@@ -8,7 +8,7 @@
 
 :family: On a personal note, I am married to Marica Grego, who holds a research fellow position in business economics at the [University_of_Pavia](https://unipv.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unipv.it%2Fresource%2Fperson%2F1195970), and we have a daughter named Alice.
 
-💾 List of contents:
+💾 List of (main) contents:
 - [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`)
 - [17th EAEPE Summer School, Rome 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`)
 - [Six lectures on SFC models](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`)
