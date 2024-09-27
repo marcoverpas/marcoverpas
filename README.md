@@ -12,7 +12,7 @@
 - [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`)
 - [17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`)
 - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`)
-- [Macroeconomia, L'Aquila University, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`)
+- ["Macroeconomia" module, L'Aquila University, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`)
 - [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`)
 - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`)
 - [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) 
