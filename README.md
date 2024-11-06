@@ -19,4 +19,4 @@
 - [Teaching material](https://github.com/marcoverpas/Teaching) (`R`)
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`)
 
-:earth_africa: Linked repositories: [model codes related to JUST2CE Project](https://github.com/JUST2CE-WP5)
+:earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5)
