@@ -20,3 +20,6 @@
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`)
 
 :earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoverpas&show_icons=true&theme=dark)
+
