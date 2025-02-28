@@ -19,7 +19,7 @@
 - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
 - [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
 - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
-- [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :abacus:
+- [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
 :earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5)
 
