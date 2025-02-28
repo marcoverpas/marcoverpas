@@ -9,17 +9,17 @@
 :family: On a personal note, I am married to Marica Grego, who holds a research fellow position in business economics at the [University_of_Pavia](https://unipv.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unipv.it%2Fresource%2Fperson%2F1195970), and we have a daughter named Alice.
 
 💾 List of (main) contents:
-- [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`)
+- [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
 - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
 - [17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
 - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`) :teacher:
 - ['Economics of digital transformation' module, L'Aquila University, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025)(`R`)  :student:
 - ["Macroeconomia" module, L'Aquila University, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
-- [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`)
-- [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`)
-- [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) 
-- [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`)
-- [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`)
+- [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
+- [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
+- [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
+- [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
+- [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :abacus:
 
 :earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5)
 
