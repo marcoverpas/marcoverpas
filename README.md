@@ -13,7 +13,7 @@
 - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
 - [17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
 - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`) :teacher:
-- ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025)(`R`) :student:
+- ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
 - ["Macroeconomia" module, University of L'Aquila, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
 - [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
 - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
