@@ -10,6 +10,7 @@
 
 💾 List of (main) contents:
 - [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`)
+- ["Economics of digital transformation" module, L'Aquila University, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025)(`R`)   **NEW!**
 - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`)   **NEW!**
 - [17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`)
 - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`)
