@@ -19,6 +19,7 @@
 - [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
 - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
 - [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
+- [SFC models](https://github.com/marcoverpas/SFC-models-Julia/tree/main) (`Julia`) :abacus:
 - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
