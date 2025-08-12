@@ -28,4 +28,4 @@
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoverpas&show_icons=true&theme=dark) -->
 
-The material on this repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). Feel free to use the material for non-commercial purposes, but please give credit.
+The material in this repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). You may use it for non-commercial purposes, provided that proper credit is given.
