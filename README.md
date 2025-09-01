@@ -18,10 +18,10 @@
   - [Lecture on SFC models, 17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
   - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`) :teacher:
 - Additional code for SFC modelling:
-  - [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
-  - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
-  - [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
-  - [SFC models](https://github.com/marcoverpas/SFC-models-Julia/tree/main) (`Julia`) :abacus: :new:
+  - [Implementing basic SFC models in `R`](https://github.com/marcoverpas/SFC-models-R) :abacus:
+  - [Implementing basic SFC models in `MATLAB`](https://github.com/marcoverpas/SFC-models-Matlab) :abacus:
+  - [Implementing basic SFC models in `Python-Jupiter`](https://github.com/marcoverpas/SFC-models-Jupyter) :abacus:
+  - [Implementing basic SFC models in `Julia`](https://github.com/marcoverpas/SFC-models-Julia/tree/main) :abacus: :new:
 - Teaching material:
   - ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
   - ['Macroeconomia' module, University of L'Aquila, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
