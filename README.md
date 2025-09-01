@@ -9,20 +9,23 @@
 :family: On a personal note, I am married to Marica Grego, who holds a research fellow position in business economics at the [University_of_Pavia](https://unipv.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unipv.it%2Fresource%2Fperson%2F1195970), and we have a daughter named Alice.
 
 💾 List of (main) contents:
-- [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
-- [An empirical SFC macroeconomic model for Italy using Bimets package](https://github.com/marcoverpas/Italy-SFC-Model) (`R`) :chart_with_upwards_trend:
+- Codes from my publications
+  - [An empirical SFC macroeconomic model for Italy using Bimets package](https://github.com/marcoverpas/Italy-SFC-Model) (`R`) :chart_with_upwards_trend:
+  - [Other codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
 - Lectures on SFC models and other non-neoclassical models:
   - [Modelling the Ecological Transition Through a Simple IO-SFC Model, University of Florence, 2025](https://github.com/marcoverpas/keynote_speech_Florence) (`R`) :teacher: :new:
   - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
   - [Lecture on SFC models, 17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
   - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`) :teacher:
-- ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
-- ['Macroeconomia' module, University of L'Aquila, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
-- [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
-- [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
-- [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
-- [SFC models](https://github.com/marcoverpas/SFC-models-Julia/tree/main) (`Julia`) :abacus: :new:
-- [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
+- Additional code for SFC modelling:
+  - [SFC models](https://github.com/marcoverpas/SFC-models-R) (`R`) :abacus:
+  - [SFC models](https://github.com/marcoverpas/SFC-models-Matlab) (`MATLAB`) :abacus:
+  - [SFC models](https://github.com/marcoverpas/SFC-models-Jupyter) (`Python-Jupiter`) :abacus:
+  - [SFC models](https://github.com/marcoverpas/SFC-models-Julia/tree/main) (`Julia`) :abacus: :new:
+- Teaching material:
+  - ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
+  - ['Macroeconomia' module, University of L'Aquila, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
+  - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
 :earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5) 
