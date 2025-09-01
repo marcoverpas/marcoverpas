@@ -11,7 +11,7 @@
 💾 List of (main) contents:
 - [Codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
 - [An empirical SFC macroeconomic model for Italy using Bimets package](https://github.com/marcoverpas/Italy-SFC-Model) (`R`) :chart_with_upwards_trend:
-- Lectures on SFC and other non-neoclassical models:
+- Lectures on SFC models and other non-neoclassical models:
   - [Modelling the Ecological Transition Through a Simple IO-SFC Model, University of Florence, 2025](https://github.com/marcoverpas/keynote_speech_Florence) (`R`) :teacher: :new:
   - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
   - [Lecture on SFC models, 17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
