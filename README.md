@@ -24,7 +24,7 @@
   - [Implementing basic SFC models in `Julia`](https://github.com/marcoverpas/SFC-models-Julia/tree/main) :abacus: :new:
 - Teaching material:
   - ['Economics of digital transformation' module, University of L'Aquila, 2025](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
-  - ['Macroeconomia' module, University of L'Aquila, 2024](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
+  - ['Macroeconomia' module, University of L'Aquila](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
   - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
