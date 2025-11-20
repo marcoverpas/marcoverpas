@@ -6,7 +6,7 @@
 
 :chart_with_upwards_trend: In terms of programming languages and environments, I mainly use `R` and `EViews`. However, I have a good knowledge of other tools (like `Python`, `MATLAB` and `Julia`) as well.
 
-:family: On a personal note, I am married to Marica Grego, who holds a research fellow position in business economics at the [University_of_Pavia](https://unipv.unifind.cineca.it/individual?uri=http%3A%2F%2Firises.unipv.it%2Fresource%2Fperson%2F1195970), and we have a daughter named Alice.
+:family: On a personal note, I am married to Marica Grego, who is assistant professor in business economics at the University of Padua, and we have a daughter named Alice.
 
 💾 List of (main) contents:
 - Codes from my publications
