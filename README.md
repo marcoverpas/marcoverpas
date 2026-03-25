@@ -14,7 +14,7 @@
   - [Other codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
 - Lectures on SFC models and other non-neoclassical models:
   - [Modelling the Ecological Transition Through a Simple IO-SFC Model, University of Florence, 2025](https://github.com/marcoverpas/keynote_speech_Florence) (`R`) :teacher: :new:
-  - [PhD Lectures on TMC and SFC models, University of Macerata, 2025](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
+  - [PhD Lectures on TMC and SFC models, University of Macerata, 2025-2026](https://github.com/marcoverpas/PhD_Lectures_Macerata_2025) (`R`) :teacher:
   - [Lecture on SFC models, 17th EAEPE Summer School, Roma Tre University, 2024](https://github.com/marcoverpas/EAEPE_summer_school_2024) (`R`) :teacher:
   - [Six lectures on SFC models, Central University of Finance and Economics of Beijing, 2023](https://github.com/marcoverpas/Six_lectures_on_sfc_models) (`R`) :teacher:
 - Additional code for SFC modelling:
