@@ -24,7 +24,7 @@
   - [Implementing basic SFC models in `Python-Jupiter`](https://github.com/marcoverpas/SFC-models-Jupyter) :abacus:
   - [Implementing basic SFC models in `Julia`](https://github.com/marcoverpas/SFC-models-Julia/tree/main) :abacus: :new:
 - Teaching material:
-  - ['Analisi Economica' module, University of L'Aquila](https://github.com/marcoverpas/analisi_economica) (`R`) :student:
+  - ['Analisi Economica' module, University of L'Aquila](https://github.com/marcoverpas/analisi_economica) (`R`) :student: :new:
   - ['Macroeconomia' module, University of L'Aquila](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
   - ['Economics of digital transformation' module, University of L'Aquila](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
   - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
