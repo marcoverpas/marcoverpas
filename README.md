@@ -36,3 +36,8 @@
 
 :unlock: :copyright: *Note*: All the material in this repository is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1). You are encouraged to use it for non-commercial purposes, provided that proper credit is given.
 
+## GitHub Statistics
+
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoverpas&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoverpas&layout=compact)
