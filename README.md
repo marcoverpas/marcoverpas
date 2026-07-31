@@ -26,6 +26,7 @@
 - Teaching material:
   - ['Analisi Economica' module, University of L'Aquila](https://github.com/marcoverpas/analisi_economica) (`R`) :student: :new: 🚧
   - ['Macroeconomia' module, University of L'Aquila](https://github.com/marcoverpas/Macroeconomia) (`R`) :student:
+  - ['Mini corso di Economia Monetaria](https://github.com/marcoverpas/economia_monetaria) (`R`) :student: :new: 🚧
   - ['Economics of digital transformation' module, University of L'Aquila](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
   - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
 - [Miscellaneous](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
