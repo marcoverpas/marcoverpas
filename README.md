@@ -30,7 +30,7 @@
   - ['Economics of digital transformation' module, University of L'Aquila](https://github.com/marcoverpas/-Economics-of-Digital-Transformation-module-L-Aquila-University-2025) (`R`) :student:
   - [Additional teaching material](https://github.com/marcoverpas/Teaching) (`R`) :abacus:
 - Miscellaneous:
-  - [Other code](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
+  - [Additional code](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
 :earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5) 
 
