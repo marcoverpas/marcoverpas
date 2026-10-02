@@ -9,9 +9,9 @@
 :family: On a personal note, I am married to [Marica Grego](https://stem.elearning.unipd.it/blocks/course_managers/manager.php?id=68032&b=175), who is assistant professor in business economics at the University of Padua, and we have a daughter named Alice.
 
 💾 List of (main) contents:
-- Codes from my publications
+- Code from my publications
   - [An empirical SFC macroeconomic model for Italy using Bimets package](https://github.com/marcoverpas/Italy-SFC-Model) (`R`) :chart_with_upwards_trend:
-  - [Other codes from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
+  - [Other code from my publications](https://github.com/marcoverpas/Other_codes_from_my_publications) (`R`,`EViews`) :chart_with_upwards_trend:
 - Lectures on SFC models and other non-neoclassical models:
   - [Modelling Monetary Economies of Production: Integrating SFC, IO and ABM Approaches, University of Leeds, 2026](https://github.com/marcoverpas/Leeds_lectures_2026) (`R`, `HTML`) :teacher: :new:
   - [Modelling the Ecological Transition Through a Simple IO-SFC Model, University of Florence, 2025](https://github.com/marcoverpas/keynote_speech_Florence) (`R`) :teacher:
@@ -32,7 +32,7 @@
 - Miscellaneous:
   - [Additional code](https://github.com/marcoverpas/Other_codes) (`R`,`MATLAB`,`EViews`) :toolbox:
 
-:earth_africa: Linked repositories: [model codes from JUST2CE Project](https://github.com/JUST2CE-WP5) 
+:earth_africa: Linked repositories: [model code from JUST2CE Project](https://github.com/JUST2CE-WP5) 
 
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoverpas&show_icons=true&theme=dark) -->
 
